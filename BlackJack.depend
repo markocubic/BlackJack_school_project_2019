@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1559942135 source:c:\users\home\desktop\blackjack\blackjack.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<math.h>
+	<dos.h>
+	<thread>
+	<chrono>
+	"blackjack.h"
+
+1559938738 c:\users\home\desktop\blackjack\blackjack.h
+	<vector>
+	<string>
+
+1559938354 source:c:\users\home\desktop\blackjack\main.cpp
+	<iostream>
+	"blackjack.h"
+	<random>
+	<time.h>
+
+1559942135 source:c:\users\home\desktop\marko\faks\6. semestar\objektno programiranje\projekt\blackjack updated\blackjack.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<vector>
+	<math.h>
+	<dos.h>
+	<thread>
+	<chrono>
+	"blackjack.h"
+
+1559938738 c:\users\home\desktop\marko\faks\6. semestar\objektno programiranje\projekt\blackjack updated\blackjack.h
+	<vector>
+	<string>
+
+1559938354 source:c:\users\home\desktop\marko\faks\6. semestar\objektno programiranje\projekt\blackjack updated\main.cpp
+	<iostream>
+	"blackjack.h"
+	<random>
+	<time.h>
+
